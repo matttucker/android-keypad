@@ -1,0 +1,20 @@
+
+
+
+HARDWARE
+--------
+Arduino Pro 328 - 3.3V/8MHz (sku: DEV-09221)  
+USB Host Shield (sku: DEV-09947)
+keypad (sku: COM-08653)
+
+LIBRARIES
+---------
+https://dl-ssl.google.com/android/adk/adk_release_0512.zip
+http://www.arduino.cc/playground/Code/Keypad#Download
+https://github.com/felis/USB_Host_Shield_2.0.git
+
+NOTES
+-----
+VIN > 5 v
+jump d7 to rst
+
